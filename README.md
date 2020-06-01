@@ -6,4 +6,8 @@ Game Features:
 - Ball moves faster as rally continues
 
 Initial Load Screen:
-![Intial Load Screen](images/Pong.png)
+![](images/Pong.png)
+
+Gameplay:
+![](images/Gameplay.png)
+
