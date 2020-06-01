@@ -5,5 +5,5 @@ Game Features:
 - Games are up to a score of 5
 - Ball moves faster as rally continues
 
-Intial Load Screen:
+Initial Load Screen:
 ![Intial Load Screen](Pong.png)
